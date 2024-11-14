@@ -19264,4 +19264,6 @@ with pkgs;
   cantata = callPackage ../by-name/ca/cantata/package.nix {
     ffmpeg = ffmpeg_6;
   };
+
+  ufbt = callPackage ../by-name/uf/ufbt { };
 }
