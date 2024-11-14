@@ -15702,6 +15702,12 @@
     githubId = 54169044;
     name = "NinjaFB";
   };
+  ninjawarrior1337 = {
+    email = "nix@treelar.xyz";
+    github = "ninjawarrior1337";
+    name = "Treelar";
+    githubId = "10366065";
+  };
   nintron = {
     email = "nintron@sent.com";
     github = "Nintron27";
