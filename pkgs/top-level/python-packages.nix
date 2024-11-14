@@ -9696,6 +9696,8 @@ self: super: with self; {
 
   osmpythontools = callPackage ../development/python-modules/osmpythontools { };
 
+  oslex = callPackage ../development/python-modules/oslex { };
+
   oslo-concurrency = callPackage ../development/python-modules/oslo-concurrency { };
 
   oslo-config = callPackage ../development/python-modules/oslo-config { };
